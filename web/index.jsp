@@ -46,9 +46,10 @@
                         Most programming languages consist of instructions for computers. There are programmable machines that use a set of specific instructions, rather than general programming languages. 
                     </p>
 
-                    <button class="btn btn-outline-light btn-lg"> <span class="fa 	fa fa-user-plus"></span>  Start ! its Free</button>
+                     <a href="register_page.jsp" class="btn btn-outline-light btn-lg">  <span class="fa fa-user-circle fa-spin"></span>  signup</a>
+                         
                     <a href="login_page.jsp" class="btn btn-outline-light btn-lg"> <span class="fa fa-user-circle fa-spin"></span>  Login</a>
-
+                   
                 </div>
             </div>
 
