@@ -46,7 +46,8 @@
                         Most programming languages consist of instructions for computers. There are programmable machines that use a set of specific instructions, rather than general programming languages. 
                     </p>
 
-                     <a href="register_page.jsp" class="btn btn-outline-light btn-lg">  <span class="fa fa-user-circle fa-spin"></span>  signup</a>
+                   
+                         <a href="register_page.jsp" class="btn btn-outline-light btn-lg">  <span class="fa fa-user-circle fa-spin"></span>  signup</a>
                          
                     <a href="login_page.jsp" class="btn btn-outline-light btn-lg"> <span class="fa fa-user-circle fa-spin"></span>  Login</a>
                    
@@ -73,8 +74,8 @@
 
                         <div class="card-body">
                             <h5 class="card-title">Java Programming</h5>
-                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                            <a href="#" class="btn primary-background text-white">Read more</a>
+                    <p class="card-text">Java is a versatile, object-oriented programming language used for building robust applications across platforms.</p>
+                    <a href="https://www.oracle.com/java/" class="btn primary-background text-white" target="_blank">Read more</a>
                         </div>
                     </div>
                 </div>
@@ -82,59 +83,55 @@
                     <div class="card" >
 
                         <div class="card-body">
-                            <h5 class="card-title">Python Programming</h5>
-                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                            <a href="#" class="btn primary-background text-white">Read more</a>
-                        </div>
+                    <h5 class="card-title">Python Programming</h5>
+                    <p class="card-text">Python is a high-level, interpreted language known for its readability and versatility in web development, data analysis, and more.</p>
+                    <a href="https://www.python.org/" class="btn primary-background text-white" target="_blank">Read more</a>
+                </div>  
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div class="card" >
 
-                        <div class="card-body">
-                            <h5 class="card-title">C++ Programming</h5>
-                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                            <a href="#" class="btn primary-background text-white">Read more</a>
-                        </div>
+                       <div class="card-body">
+                    <h5 class="card-title">C++ Programming</h5>
+                    <p class="card-text">C++ is a powerful, high-performance language used for system/software development, real-time simulations.</p>
+                    <a href="https://isocpp.org/" class="btn primary-background text-white" target="_blank">Read more</a>
+                </div>
                     </div>
                 </div>
 
 
             </div>
 
-
-
-
-            <div class="row">
-
-                <div class="col-md-4">
+  <div class="row">
+              <div class="col-md-4">
                     <div class="card" >
 
-                        <div class="card-body">
-                            <h5 class="card-title">Web Technology</h5>
-                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                            <a href="#" class="btn primary-background text-white">Read more</a>
-                        </div>
+                         <div class="card-body">
+                    <h5 class="card-title">Web Technology</h5>
+                    <p class="card-text">Web technology encompasses the tools and techniques used to build and manage websites and web applications.</p>
+                    <a href="https://developer.mozilla.org/en-US/docs/Web" class="btn primary-background text-white" target="_blank">Read more</a>
+                </div>
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div class="card" >
 
-                        <div class="card-body">
-                            <h5 class="card-title">DSA Algorithm</h5>
-                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                            <a href="#" class="btn primary-background text-white">Read more</a>
-                        </div>
+                          <div class="card-body">
+                    <h5 class="card-title">DSA Algorithm</h5>
+                    <p class="card-text">Data Structures and Algorithms (DSA) are essential for optimizing code and improving the efficiency of software    </p>
+                    <a href="https://www.geeksforgeeks.org/data-structures/" class="btn primary-background text-white" target="_blank">Read more</a>
+                </div>
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div class="card" >
 
-                        <div class="card-body">
-                            <h5 class="card-title">System design</h5>
-                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                            <a href="#" class="btn primary-background text-white">Read more</a>
-                        </div>
+                         <div class="card-body">
+                    <h5 class="card-title">System Design</h5>
+                    <p class="card-text">System design involves creating architecture for complex systems, ensuring scalability, reliability, and maintainability.</p>
+                    <a href="https://www.educative.io/courses/grokking-the-system-design-interview" class="btn primary-background text-white" target="_blank">Read more</a>
+                </div>
                     </div>
                 </div>
 
@@ -199,7 +196,7 @@
         <div class="row">
             <div class="col-md-12 text-center">
                 <p>
-                    &copy; 2023 CodeConnect. All rights reserved.
+                    &copy; 2024 CodeConnect. All rights reserved.
                 </p>
             </div>
         </div>
